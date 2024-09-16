@@ -1,4 +1,5 @@
 int main(int argc, char const *argv[])
+
 {
     int x, y;
     scanf("x = ", &x);
